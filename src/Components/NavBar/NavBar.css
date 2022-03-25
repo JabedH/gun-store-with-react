@@ -1,0 +1,33 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 100px;
+  background-color: #1c2b35;
+  color: white;
+}
+.navbar a {
+  text-decoration: none;
+  color: white;
+  margin-right: 30px;
+}
+sup {
+  background-color: tomato;
+  padding: 5px;
+  border-radius: 30px;
+}
+.gun-details img {
+  width: 50px;
+  margin-right: 10px;
+}
+.gun-details {
+  display: flex;
+  align-items: center;
+}
+.gun-details p {
+  margin-left: 5px;
+}
+.close-btn {
+  display: flex;
+  justify-content: end;
+}
